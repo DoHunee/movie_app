@@ -15,30 +15,30 @@ function Food({ name, picture, rating }) {
 const foodILike = [
   {
     id: 1,
-    name: "kimchi",
+    name: "세상의 모든소리",
     image:
-      "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/954d0e47cad6ce0f6bda194b5a4075b21.jpg",
+      "https://uyjoqvxyzgvv9714092.cdn.ntruss.com/data2/content/image/2016/09/05/.cache/512/20160905194827.jpg",
     rating: 5,
   },
   {
     id: 2,
-    name: "ramen",
+    name: "강릉커피축제",
     image:
-      "https://health.chosun.com/site/data/img_dir/2022/09/23/2022092301908_0.jpg",
+      "https://www.coffeefestival.net/data/banner/2023_poster.jpg",
     rating: 4.9,
   },
   {
     id: 3,
-    name: "jeyuk bokkeum",
+    name: "평창 백일홍 축제제",
     image:
-      "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/7ef9cedcbe5cceb5d3b17c81b305a9c21.jpg",
+      "https://www.101hongfestival.co.kr/asset/images/popup/pop_230720.jpg",
     rating: 4.5,
   },
   {
     id: 4,
-    name: "kimbab",
+    name: "송어+연어 축제",
     image:
-      "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/0461907459756bc3a56472da407a1a9d1.jpg",
+      "http://yyfestival.com/theme/festival/img/sub2_23.jpg",
     rating: 3.8,
   },
 ];
